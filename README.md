@@ -1,7 +1,7 @@
 ## 👨‍💻About Me
 Hi, I’m Sajjad - a passionate data enthusiast and analyst!
 
-I work as a Data Analyst at a German company, where I analyze data to help teams make smart decisions. I design Power BI reports and dashboards, build reliable data pipelines, and develop predictive models that turn complex information into clear, actionable insights.
+I’m a Data Analyst with 3+ years of experience, working in a multi-country manufacturing environment. My work focuses on simplifying complex, high-volume data and turning it into a true basis for decision-making.
 I’m always learning, always building, and I enjoy collaborating with others who share this passion!
 
 <!--
