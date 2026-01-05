@@ -1,7 +1,5 @@
 ## 👨‍💻About Me
-Hi, I’m Sajjad - a passionate data enthusiast and analyst!
-
-I’m a Data Analyst with 3+ years of experience, working in a multi-country manufacturing environment. My work focuses on simplifying complex, high-volume data and turning it into a true basis for decision-making.
+Hi, I’m a Data Analyst with 3+ years of experience, working in a multi-country manufacturing environment. My work focuses on simplifying complex, high-volume data and turning it into a true basis for decision-making.
 I’m always learning, always building, and I enjoy collaborating with others who share this passion!
 
 <!--
